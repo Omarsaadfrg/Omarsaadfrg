@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Saad</h1>
-<h3 align="center">🚀 Mobile Application Developer | Kotlin & Flutter</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer+📱;Flutter+Developer+🐦;Jetpack+Compose+🔥;Building+Real+World+Apps+🚀&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarsaadfrg&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/omarsaadfrg?label=Followers&style=social" />
-</p>
+<h3 align="center">🚀 Android Developer | Kotlin & Flutter</h3>
 
 ---
 
-## 🚀 About Me
-- 📱 Android Developer using Kotlin & Jetpack Compose  
+## 🧑‍💻 About Me
+- 📱 Android Developer specialized in Kotlin & Jetpack Compose  
 - 🔥 Flutter Developer (Cross-platform apps)  
 - 🧠 Focused on Clean Architecture (MVVM)  
 - 🎯 Passionate about building real-world applications  
@@ -22,77 +13,69 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,firebase,androidstudio,git,github" />
-</p>
+### 💻 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-00C853?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-F57C00?style=for-the-badge)
 
-### 🕌 Sakina App (Production App)
-📱 Full-featured Islamic mobile application for daily worship  
-🌍 Available on Google Play  
+---
 
-🔗 https://play.google.com/store/apps/details?id=com.sama.sakina  
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 
-#### 💡 Key Features
-- 📖 Full Quran reading experience  
-- 🕌 Accurate prayer times (location-based)  
-- 🔔 Prayer reminders & notifications  
-- 🌙 Daily Azkar  
-- 🤲 1000+ categorized Duas  
-- 📿 Digital Tasbeeh counter  
-- ✅ Islamic daily checklist  
+---
 
-#### 🛠 Tech Stack
-- Kotlin  
-- Jetpack Compose  
-- REST APIs  
-- MVVM  
-- Location Services  
+## 🚀 Projects
 
-#### 👨‍💻 My Role
-- UI Development (Jetpack Compose)  
-- API Integration  
-- UX Improvements  
-- Team Collaboration  
-
-#### 📊 Impact
-- ⭐ 5.0 Rating  
-- 📥 100+ Downloads  
-- 🚀 Published production app  
+### 🕌 Sakina App (Production)
+- 📱 Islamic app (Quran, Azkar, Prayer Times)  
+- 🌍 Published on Google Play  
+- ⭐ 5.0 Rating | 📥 100+ Downloads  
+- ⚙️ Kotlin • Compose • MVVM • APIs  
 
 ---
 
 ### 🎬 Movie Discovery App
-📱 Android app to explore trending & popular movies  
-
-#### 💡 Features
-- 🔍 Movie search  
-- 🎞 Popular movies  
-- 📄 Movie details  
-- 🎭 Cast section  
-
-#### 🛠 Tech Stack
-- Kotlin  
-- Retrofit  
-- MVVM  
-- Jetpack Components  
+- 🔍 Search & browse movies  
+- 📄 Movie details & cast  
+- 🎯 Clean UI + MVVM  
 
 ---
 
 ### 🌦 Weather App
-📱 Weather application with real-time updates  
-
-#### 💡 Features
-- 🌤 Current weather  
+- 🌤 Real-time weather data  
 - 📍 Location-based results  
 - 🎨 Clean UI  
 
-#### 🛠 Tech Stack
-- Kotlin  
-- API Integration  
+---
+
+### 🎓 Educational App
+- 📚 For Thanawia Amma students  
+- 📊 Lessons + progress tracking  
+
+---
+
+### 🛒 E-Commerce App
+- 🛍 Product listing  
+- 🛒 Cart & checkout UI  
+- 📱 Modern Android UI  
+
+---
+
+## 🏆 Training & Experience
+- 🏦 Banque Misr Android Internship  
+- 💻 Kotlin Internship (DEPI)  
+- 🧠 Sprints Internship  
+- 🏆 ICPC Training Program  
 
 ---
 
@@ -102,26 +85,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=omarsaadfrg&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omarsaadfrg&theme=tokyonight" />
-</p>
-
 ---
 
-
-## 📫 Let's Connect
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Omarsaadfrg">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourlink">
+  <a href="https://linkedin.com/in/omar-saad-abdelfttah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
+✨ Always learning, always building.
