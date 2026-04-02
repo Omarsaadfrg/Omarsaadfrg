@@ -31,19 +31,14 @@
 ## 🚀 Featured Projects
 
 ### 🕌 Sakina App (Production App)
-📱 Full-featured Islamic mobile application designed for daily worship  
+📱 Full-featured Islamic mobile application for daily worship  
 🌍 Available on Google Play  
 
 🔗 https://play.google.com/store/apps/details?id=com.sama.sakina  
 
-<p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Sakina+App+1" />
-  <img src="https://via.placeholder.com/250x500?text=Sakina+App+2" />
-</p>
-
 #### 💡 Key Features
-- 📖 Full Quran with smooth reading experience  
-- 🕌 Accurate prayer times based on location  
+- 📖 Full Quran reading experience  
+- 🕌 Accurate prayer times (location-based)  
 - 🔔 Prayer reminders & notifications  
 - 🌙 Daily Azkar  
 - 🤲 1000+ categorized Duas  
@@ -71,12 +66,7 @@
 ---
 
 ### 🎬 Movie Discovery App
-📱 Android app to explore trending movies  
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Movie+App+1" />
-  <img src="https://via.placeholder.com/250x500?text=Movie+App+2" />
-</p>
+📱 Android app to explore trending & popular movies  
 
 #### 💡 Features
 - 🔍 Movie search  
@@ -95,13 +85,9 @@
 ### 🌦 Weather App
 📱 Weather application with real-time updates  
 
-<p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Weather+App" />
-</p>
-
 #### 💡 Features
 - 🌤 Current weather  
-- 📍 Location-based  
+- 📍 Location-based results  
 - 🎨 Clean UI  
 
 #### 🛠 Tech Stack
@@ -114,7 +100,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarsaadfrg&show_icons=true&theme=tokyonight" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=omarsaadfrg&theme=tokyonight" />
 </p>
 
