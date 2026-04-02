@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Mobile Application Developer | Kotlin & Flutter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer+%F0%9F%93%B1;Flutter+Developer+%F0%9F%90%A6;Jetpack+Compose+Expert+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%A7%A0&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer+📱;Flutter+Developer+🐦;Jetpack+Compose+🔥;Always+Learning+New+Things+🧠&center=true&width=500&height=45">
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🚀 Featured Projects
 
 ### 🏠 Sakina App (Team Project)
-📌 A housing app for finding and exploring places بسهولة  
+📌 A housing app for finding and exploring places   
 💻 My Role: UI + API Integration  
 
 ---
@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omarsaadfrg&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarsaadfrg&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarsaadfrg&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Omarsaadfrg&theme=tokyonight" />
 </p>
 
 ---
@@ -66,8 +66,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Omarsaadfrg"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Omarsaadfrg">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
+🔥 *Code. Build. Improve. Repeat
