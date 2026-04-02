@@ -108,13 +108,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarsaadfrg&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
@@ -132,4 +125,3 @@
 
 ---
 
-🔥 Code. Build. Improve. Repeat.
