@@ -39,8 +39,9 @@
 ### 🕌 Sakina App (Production)
 - 📱 Islamic app (Quran, Azkar, Prayer Times)  
 - 🌍 Published on Google Play  
+- 🔗 https://play.google.com/store/apps/details?id=com.sama.sakina  
 - ⭐ 5.0 Rating | 📥 100+ Downloads  
-- ⚙️ Kotlin • Compose • MVVM • APIs  
+- ⚙️ Kotlin • Jetpack Compose • MVVM • APIs  
 
 ---
 
@@ -58,24 +59,12 @@
 
 ---
 
-### 🎓 Educational App
-- 📚 For Thanawia Amma students  
-- 📊 Lessons + progress tracking  
-
----
-
-### 🛒 E-Commerce App
-- 🛍 Product listing  
-- 🛒 Cart & checkout UI  
-- 📱 Modern Android UI  
-
----
-
 ## 🏆 Training & Experience
-- 🏦 Banque Misr Android Internship  
-- 💻 Kotlin Internship (DEPI)  
+
+- 🇪🇬 Digital Egypt Pioneers Initiative (DEPI)  
+- 💻 **Kotlin Internship (DEPI)**  
+  *Certificate of Achievement*  
 - 🧠 Sprints Internship  
-- 🏆 ICPC Training Program  
 
 ---
 
